@@ -33,4 +33,5 @@ Aplicar técnicas modernas de aprendizado de máquina, decomposição e modelage
 
 ## ✍️ Autor
 Gabriel Padilha Alves
+
 Ph.D. Candidate in Civil Engineering - UFSC
