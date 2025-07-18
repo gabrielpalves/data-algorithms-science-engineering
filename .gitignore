@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# catboost
+catboost_info/
+
+# Torch models
+*.pth
+
 # Distribution / packaging
 .Python
 build/
